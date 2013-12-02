@@ -6,3 +6,7 @@ Template: reddle
 */
 
 @import url("../reddle/style.css");
+
+#page #main .widget-area {
+    background: none repeat scroll 0 0 #FFFFFF;
+}
